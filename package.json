@@ -1,0 +1,32 @@
+{
+  "name": "mechanic-plumber",
+  "version": "1.1.5",
+  "description": "For hapi based projects, connect routes & controller",
+  "main": "index.js",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "cli-color": "^0.3.2",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ubaltaci/mechanic-plumber.git"
+  },
+  "keywords": [
+    "kns-plumber",
+    "kns",
+    "cli"
+  ],
+  "author": {
+    "name": "Uğur Baltacı",
+    "email": "ugur@kns.com.tr",
+    "web": "http://www.ugurbaltaci.com"
+  },
+  "maintaners": {
+    "name": "Çağdaş Akar",
+    "email": "cagdas@kns.com.tr",
+    "web": "http://www.cagdasakar.com"
+  },
+  "license": "MIT"
+}
