@@ -14,9 +14,9 @@
     "url": "git@github.com:ubaltaci/mechanic-plumber.git"
   },
   "keywords": [
-    "kns-plumber",
-    "kns",
-    "cli"
+    "mechanic-plumber",
+    "plumber",
+    "kns"
   ],
   "author": {
     "name": "Uğur Baltacı",
