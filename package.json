@@ -1,6 +1,6 @@
 {
   "name": "mechanic-plumber",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "For hapi based projects, connect routes & controller & models",
   "main": "index.js",
   "dependencies": {
