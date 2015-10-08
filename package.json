@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "peerDependencies": {
-    "hapi": ">= 8.x.x"
+    "hapi": ">= 10.x.x"
   },
   "repository": {
     "type": "git",
