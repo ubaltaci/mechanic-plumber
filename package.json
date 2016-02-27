@@ -1,12 +1,11 @@
 {
   "name": "mechanic-plumber",
-  "version": "10.2.0",
+  "version": "10.3.0",
   "description": "For hapi based projects, connect routes & controller",
   "main": "index.js",
   "dependencies": {
     "callsite": "^1.0.0",
     "cli-color": "^1.1.0",
-    "inflection": "^1.8.0",
     "lodash": "^4.5.1"
   },
   "devDependencies": {},
